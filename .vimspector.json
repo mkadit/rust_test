@@ -1,0 +1,12 @@
+{
+	"configurations": {
+		"launch": {
+			"adapter": "CodeLLDB",
+			"configuration": {
+				"name": "Debug",
+				"request": "launch",
+				"program": "${workspaceRoot}/target/debug/first_new"
+			}
+		}
+	}
+}
